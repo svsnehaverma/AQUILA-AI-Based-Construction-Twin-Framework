@@ -7,5 +7,5 @@
 </table>
 
 
-# AQUILA-AI-Based-Construction-Twin-Framework
+# AI-Powered-Digital-Twin-for-Construction-Sites
 This project aims to develop a plug-and-play device for monitoring the activity of construction equipment.
